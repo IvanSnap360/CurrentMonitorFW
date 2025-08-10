@@ -1,0 +1,17 @@
+{
+    "name": "CurrentMonitor",
+    "about": "Проект токового монитора",
+    "version": "1.1",
+    "notes": "Тест AutoOTA",
+    "builds": [
+        {
+            "chipFamily": "ESP32-S3",
+            "parts": [
+                {
+                    "path": "https://raw.githubusercontent.com/IvanSnap360/CurrentMonitor/tree/main/firmware/CurrentMonitor/firmware/firmware.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ]
+}
