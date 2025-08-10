@@ -1,7 +1,7 @@
 {
     "name": "CurrentMonitor",
     "about": "Проект токового монитора",
-    "version": "1.6",
+    "version": "1.7",
     "notes": "Тест AutoOTA",
     "builds": [
         {
