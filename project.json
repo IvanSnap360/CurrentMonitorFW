@@ -8,8 +8,8 @@
             "chipFamily": "ESP32-S3",
             "parts": [
                 {
-                    "path": "https://raw.githubusercontent.com/IvanSnap360/CurrentMonitor/tree/main/firmware/CurrentMonitor/firmware/firmware.bin",
-                    "offset": 0
+                    "path": "https://github.com/IvanSnap360/CurrentMonitorFW/raw/refs/heads/main/firmware.bin",
+                    " offset": 0
                 }
             ]
         }
